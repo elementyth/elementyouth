@@ -1,0 +1,31 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elementyth.github.io/elementwebsite" resolutions="1x" timestamp="1510283054585">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4254995763" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="all in-crop-u94.jpg" crc="529319321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u152-4.png" crc="5417405" ref="index"/>
+    <file name="u178-4.png" crc="82312672" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm.jpg" crc="4058269800" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm.jpg" crc="3918523525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original.jpg" crc="4015289137" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="30253752" seo="true" mt="1510283046254" redirect="true"/>
+</manifest>
